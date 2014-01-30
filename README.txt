@@ -4,4 +4,4 @@ My Project
 Here is my project's documentation.
 
 
-Paid for my grant #7
+Paid for by grant #7
